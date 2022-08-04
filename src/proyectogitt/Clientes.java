@@ -9,5 +9,8 @@ package proyectogitt;
  * @author Gisela Salazar
  */
 public class Clientes {
+
+    public Clientes() {
+    }
     
 }
